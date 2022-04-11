@@ -23,3 +23,6 @@
 3. update move to coordinates to the last in the mousedown event listener
 4. change the line width for the canvas context
 5. programmatically select the hue with hsl color code
+6. Set the direction boolean for the line width to move up or down
+7. change the direction once the linewidth value hit the max or less than min
+8. You can use ctx.globalCompositeOperator different values to use effects
